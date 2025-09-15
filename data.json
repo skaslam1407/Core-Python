@@ -1,0 +1,10 @@
+{
+    "name": "Sekh",
+    "age": 28,
+    "skills": [
+        "Python",
+        "Django",
+        "API"
+    ],
+    "is_active": true
+}
